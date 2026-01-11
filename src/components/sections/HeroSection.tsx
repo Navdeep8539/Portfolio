@@ -68,7 +68,7 @@ const HeroSection = () => {
                 Contact Me
               </button>
               <a
-                href="/Navdeep_Kumar_Full_Stack_Developer_Resume.pdf"
+                href="/Portfolio/Navdeep_Kumar_Full_Stack_Developer_Resume.pdf"
                 download
                 className="btn-outline flex items-center"
               >

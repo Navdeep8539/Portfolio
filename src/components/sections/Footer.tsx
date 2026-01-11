@@ -33,7 +33,7 @@ const Footer = () => {
 
           {/* Center - Resume Download */}
           <a
-            href="/Navdeep_Kumar_Full_Stack_Developer_Resume.pdf"
+            href="/Portfolio/Navdeep_Kumar_Full_Stack_Developer_Resume.pdf"
             download
             className="btn-outline text-sm px-6 py-3"
           >
