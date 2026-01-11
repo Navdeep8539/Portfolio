@@ -26,7 +26,7 @@ my **skills, projects, experience, and resume** in a clean & modern way.
 ---
 
 ## 🌐 Live Demo
-🚀 **Portfolio Live:** _Add your deployed link_
+🚀 **Portfolio Live:** _https://navdeep8539.github.io/Portfolio/_
 
 ---
 
